@@ -1,4 +1,4 @@
-# Unit_Convertor_logisim
+# Unit_Convertor
 Logisim
 
 This is a simulation of units conversion tool in [Logisim](http://www.cburch.com/logisim/)
